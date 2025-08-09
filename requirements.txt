@@ -1,0 +1,12 @@
+pymupdf
+pdfplumber
+rank-bm25
+scikit-learn
+nltk
+sentence-transformers
+chromadb
+tiktoken
+streamlit
+python-dotenv
+pytest
+google-generativeai
