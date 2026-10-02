@@ -154,7 +154,7 @@ def setup_chat_interface(model_choice):
     elif model_choice == "OpenAI Grok":
         st.caption("🚀 Trợ lý AI được hỗ trợ bởi LangChain và X.AI Grok")
     else:
-        st.caption("🚀 Trợ lý AI được hỗ trợ bởi LangChain và Ollama LLaMA2")
+        st.caption("🚀 Trợ lý AI được hỗ trợ bởi LangChain và Gemini")
     
     msgs = StreamlitChatMessageHistory(key="langchain_messages")
     
